@@ -5,7 +5,7 @@ Home: https://github.com/SciTools/conda-testenv
 
 Package license: BSD
 
-Feedstock license: BSD
+Feedstock license: BSD 3-Clause
 
 Summary: Run tests of all packages in an environment.
 
@@ -69,6 +69,7 @@ Terminology
 
 Current build status
 ====================
+
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/conda-testenv-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/conda-testenv-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/conda-testenv-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/conda-testenv-feedstock) 
 Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/conda-testenv-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/conda-testenv-feedstock/branch/master)
